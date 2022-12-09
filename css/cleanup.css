@@ -1,1 +1,24 @@
 /* write your override styles here */
+body #wall {
+  margin: 50px auto;
+  width: 900px;
+}
+
+div {
+    display: inline-block;
+}
+
+#wall .tag-1 {
+  display: none;
+}
+
+#wall .tag-1 {
+  background-color: blueviolet;
+}
+
+#wall .tag-2,
+#wall .tag-3 {
+  border-radius: 2px;
+  text-align: center;
+  text-decoration: none;
+}
